@@ -15,7 +15,7 @@ import copy
 import unittest
 
 DOCS = [
-    {"_id": "1", "name": "Jimi", "age": 10, "cars": 1},
+    {"_id": "aa", "name": "Jimi", "age": 10, "cars": 1},
     {"_id": "2", "name": "Eddie", "age": 20, "cars": 1},
     {"_id": "3", "name": "Jane", "age": 30, "cars": 2},
     {"_id": "4", "name": "Mary", "age": 40, "cars": 2},
